@@ -1,0 +1,1 @@
+import{E as o}from"./index.9c6fe2f4.js";import{C as t}from"./constants.51ac3046.js";const i=o("profile",{state:()=>({profileId:t.TWITTER_MIWA_ID}),getters:{},actions:{setProfileId(e){this.profileId=e}}});export{i as u};

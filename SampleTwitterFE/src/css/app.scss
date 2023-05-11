@@ -1,0 +1,23 @@
+/* グローバルスタイル */
+html {
+  font-size: 14px;
+  color: #fff;
+  background-color: #000;
+}
+
+body {
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, p, span, label {
+  margin: 0;
+}
+
+a {
+  color: #fff;
+}
+
+.q-page-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
