@@ -5,5 +5,4 @@
 
 ・DBはxamppのMySQLで用意し、内容はsample_twitter.ddlの通り。
 ・SampleTwitterAPI > appsettings.jsonにDB接続情報。
-
 ・アプリ内で使われるポート番号はQuasar(9000)、.NET(7011)ともにデフォルトのものを使用。
